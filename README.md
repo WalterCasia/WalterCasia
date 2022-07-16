@@ -1,4 +1,4 @@
-<h2> Hi, I'm Walter Casia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Walter Casia! <img src="http://31.media.tumblr.com/22365a90e0ff531ace0957be8fdc806e/tumblr_nttwsuvWy11st3sdvo1_500.gif" width="50"></h2>
 <img align='right' src="https://octodex.github.com/images/baracktocat.jpg" width="230">
 <p><em>I study science and systems engineering at <a href="https://portal.ingenieria.usac.edu.gt/">Universidad de San Carlos de Guatemala</a></br>Lover of programming focused on web development.
 </em></p>
