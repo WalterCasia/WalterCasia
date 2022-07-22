@@ -20,7 +20,7 @@ const walter = {
                         skill_2: "Responsible",
                         skill_3: "And more..."
                       },
- challenge: "I am doing the microsoft LaunchX program focused on web development."
+ challenge: "I am doing the ONE program focused on web development."
 }
 ```
 
